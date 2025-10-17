@@ -1,0 +1,143 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.32.0.0
+Copyright (C) 2020 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: huang solitude, tongji, LIC=32B1Q-N6YBR-GKLBG-VCF81-3GT93-HC7M2
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.32.0.0
+Toolchain Path:  D:\keil5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.32.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      CMSIS_AGDI.dll V1.32.12.0
+Dialog DLL:      TCM.DLL V1.46.0.0
+ 
+<h2>Project:</h2>
+E:\轮腿式双足机器人开源\嵌入式开发\嵌入式代码\chassis_task\MDK-ARM\chassis_task.uvprojx
+Project File Date:  03/08/2022
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\keil5\ARM\ARMCC\Bin'
+Build target 'chassis_task'
+compiling calibrate_task.c...
+..\application\calibrate_task.h(264): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\bsp\boards\bsp_buzzer.h(7): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\can_receive.h(155): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\calibrate_task.c(715): warning:  #1-D: last line of file ends without a newline
+  }
+..\application\calibrate_task.c: 4 warnings, 0 errors
+compiling chassis_task.c...
+..\application\CAN_receive.h(155): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\chassis_task.h(195): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\chassis_behaviour.h(62): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\chassis_task.c: 3 warnings, 0 errors
+compiling chassis_behaviour.c...
+..\application\CAN_receive.h(155): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\chassis_task.h(195): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\chassis_behaviour.h(62): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\chassis_behaviour.c(169): warning:  #1-D: last line of file ends without a newline
+  }
+..\application\chassis_behaviour.c: 4 warnings, 0 errors
+compiling jointmotor_task.c...
+..\application\CAN_receive.h(155): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\jointmotor_task.h(111): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\chassis_task.h(195): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\jointmotor_task.c(252): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	leg_move_update->joint_motor[0].angle = leg_move_update->joint_motor[0].joint_motor_measure->position + INIT_ANGLE;
+..\application\jointmotor_task.c(253): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	leg_move_update->joint_motor[1].angle = leg_move_update->joint_motor[1].joint_motor_measure->position - INIT_ANGLE;
+..\application\jointmotor_task.c(254): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	leg_move_update->joint_motor[2].angle = leg_move_update->joint_motor[2].joint_motor_measure->position - INIT_ANGLE;
+..\application\jointmotor_task.c(255): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	leg_move_update->joint_motor[3].angle = leg_move_update->joint_motor[3].joint_motor_measure->position + INIT_ANGLE;
+..\application\jointmotor_task.c(272): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+    leg_move_update->vy  =  leg_move_update->vy + leg_move_update->y_accel * JOINTMOTOR_CONTROL_TIME_S;
+..\application\jointmotor_task.c(331): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	leg_move_control_loop->FL = (KP_Y * leg_move_control_loop->delta_y - KD_Y * leg_move_control_loop->vy + G)/2 + (KP_ROLL * leg_move_control_loop->delta_roll - KD_ROLL * leg_move_control_loop->chassis_roll_speed)/D;
+..\application\jointmotor_task.c(331): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	leg_move_control_loop->FL = (KP_Y * leg_move_control_loop->delta_y - KD_Y * leg_move_control_loop->vy + G)/2 + (KP_ROLL * leg_move_control_loop->delta_roll - KD_ROLL * leg_move_control_loop->chassis_roll_speed)/D;
+..\application\jointmotor_task.c(332): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	leg_move_control_loop->FR = (KP_Y * leg_move_control_loop->delta_y - KD_Y * leg_move_control_loop->vy + G)/2 - (KP_ROLL * leg_move_control_loop->delta_roll - KD_ROLL * leg_move_control_loop->chassis_roll_speed)/D;
+..\application\jointmotor_task.c(332): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  	leg_move_control_loop->FR = (KP_Y * leg_move_control_loop->delta_y - KD_Y * leg_move_control_loop->vy + G)/2 - (KP_ROLL * leg_move_control_loop->delta_roll - KD_ROLL * leg_move_control_loop->chassis_roll_speed)/D;
+..\application\jointmotor_task.c(338): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		leg_move_control_loop->joint_motor[0].torque_set = 0.5*leg_move_control_loop->FR*leg_move_control_loop->vyR;
+..\application\jointmotor_task.c(341): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		leg_move_control_loop->joint_motor[3].torque_set = 0.5*leg_move_control_loop->FL*leg_move_control_loop->vyL;
+..\application\jointmotor_task.c(351): warning:  #1-D: last line of file ends without a newline
+  }
+..\application\jointmotor_task.c: 15 warnings, 0 errors
+compiling CAN_receive.c...
+..\application\CAN_receive.h(155): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\CAN_receive.c(299): warning:  #1-D: last line of file ends without a newline
+  }
+..\application\CAN_receive.c: 2 warnings, 0 errors
+compiling main.c...
+..\application\calibrate_task.h(264): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\CAN_receive.h(155): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\chassis_task.h(195): warning:  #1-D: last line of file ends without a newline
+  #endif
+../Src/main.c: 3 warnings, 0 errors
+compiling freertos.c...
+..\application\calibrate_task.h(264): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\CAN_receive.h(155): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\chassis_task.h(195): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\application\jointmotor_task.h(111): warning:  #1-D: last line of file ends without a newline
+  #endif
+../Src/freertos.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=75436 RO-data=3248 RW-data=560 ZI-data=45800  
+FromELF: creating hex file...
+"chassis_task\chassis_task.axf" - 0 Error(s), 35 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.7.0.pack
+                ARM.CMSIS.5.7.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.4.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F4xx_DFP.2.15.0.pack
+                Keil.STM32F4xx_DFP.2.15.0
+                STMicroelectronics STM32F4 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_chassis_task
+  D:\keil5\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include
+  D:\keil5\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.4.0
+Build Time Elapsed:  00:00:06
+</pre>
+</body>
+</html>
