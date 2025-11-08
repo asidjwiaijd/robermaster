@@ -1,0 +1,236 @@
+[
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\main.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\main.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\gpio.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\gpio.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\gpio.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\gpio.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\adc.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\adc.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\adc.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\adc.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\dma.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\dma.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\dma.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\dma.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\i2c.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\i2c.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\i2c.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\i2c.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\tim.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\tim.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\tim.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\tim.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\usart.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\usart.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\usart.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\usart.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\stm32f4xx_it.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\stm32f4xx_it.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\stm32f4xx_it.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\stm32f4xx_it.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\stm32f4xx_hal_msp.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\stm32f4xx_hal_msp.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\stm32f4xx_hal_msp.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\stm32f4xx_hal_msp.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\sysmem.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\sysmem.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\syscalls.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\syscalls.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\moter.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\moter.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\moter.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\moter.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\filter.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\filter.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\filter.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\filter.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\mpu.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\mpu.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\mpu.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\mpu.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\HAL_Add.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\HAL_Add.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\HAL_Add.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\HAL_Add.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\mpu_test.dir\\Core\\Src\\servo.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\servo.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\servo.c",
+  "output": "CMakeFiles\\mpu_test.dir\\Core\\Src\\servo.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\mpu_test.dir\\startup_stm32f407xx.s.obj -c E:\\stm32\\mpu_test\\startup_stm32f407xx.s",
+  "file": "E:\\stm32\\mpu_test\\startup_stm32f407xx.s",
+  "output": "CMakeFiles\\mpu_test.dir\\startup_stm32f407xx.s.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32f4xx.c.obj -c E:\\stm32\\mpu_test\\Core\\Src\\system_stm32f4xx.c",
+  "file": "E:\\stm32\\mpu_test\\Core\\Src\\system_stm32f4xx.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32f4xx.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_adc.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_adc.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_adc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_adc.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_adc_ex.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_adc_ex.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_adc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_adc_ex.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_adc.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_adc.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_adc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_ll_adc.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2c.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2c.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2c.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2c.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2c_ex.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2c_ex.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2c_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_i2c_ex.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_tim.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_tim.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_tim.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_tim.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_tim_ex.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_tim_ex.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_tim_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_tim_ex.c.obj"
+},
+{
+  "directory": "E:/stm32/mpu_test/build/Debug",
+  "command": "C:\\Users\\cxmnbt\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\13.3.1+st.9\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F407xx -DUSE_HAL_DRIVER -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Core/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -IE:/stm32/mpu_test/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c.obj -c E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c",
+  "file": "E:\\stm32\\mpu_test\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c.obj"
+}
+]
